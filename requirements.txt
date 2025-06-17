@@ -131,8 +131,9 @@ numpy==1.24.4
 orjson==3.10.18
 overrides==7.7.0
 packaging==23.2
-pandas==2.2.2
-pandas-dq==1.28
+# pandas==2.2.2
+# pandas-dq==1.28
+pandas==1.5.3
 pandocfilters==1.5.1
 panel==0.14.4
 param==1.13.0
