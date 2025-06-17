@@ -69,8 +69,8 @@ httplib2==0.22.0
 httpx==0.28.1
 hvplot==0.7.3
 idna==3.10
-ImageHash==4.3.1
-imbalanced-learn==0.12.4
+# ImageHash==4.3.1
+#imbalanced-learn==0.12.4
 importlib-metadata==6.11.0
 importlib_resources==6.5.2
 ipykernel==6.29.5
@@ -102,7 +102,7 @@ jupyterlab_widgets==3.0.15
 kaleido==0.2.1
 kanaries_track==0.0.5
 kiwisolver==1.4.8
-lightgbm==4.6.0
+#lightgbm==4.6.0
 linkify-it-py==2.0.3
 llvmlite==0.44.0
 lxml==5.4.0
@@ -138,12 +138,12 @@ panel==0.14.4
 param==1.13.0
 parso==0.8.4
 patsy==1.0.1
-phik==0.12.4
+#phik==0.12.4
 pillow==10.4.0
 platformdirs==4.3.8
 plotly==5.16.1
 plotly-resampler==0.10.0
-pmdarima==2.0.4
+#pmdarima==2.0.4
 premailer==3.10.0
 prometheus_client==0.22.1
 prompt_toolkit==3.0.51
@@ -153,7 +153,7 @@ psutil==7.0.0
 psygnal==0.13.0
 pure_eval==0.2.3
 puremagic==1.29
-pyamg==5.2.1
+#pyamg==5.2.1
 pyarrow==20.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
