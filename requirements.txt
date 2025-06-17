@@ -64,7 +64,6 @@ grpcio-status==1.71.0
 gw_dsl_parser==0.1.6a6
 h11==0.16.0
 holoviews==1.14.9
-htmlmin==0.1.12
 httpcore==1.0.9
 httplib2==0.22.0
 httpx==0.28.1
