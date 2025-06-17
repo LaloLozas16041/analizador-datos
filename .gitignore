@@ -1,0 +1,7 @@
+venv/
+venv_perfilador/
+__pycache__/
+*.pkl
+*.log
+*.csv
+.env
