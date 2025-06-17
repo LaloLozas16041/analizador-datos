@@ -192,7 +192,8 @@ schemdraw==0.15
 scikit-base==0.5.2
 scikit-learn==1.2.2
 scikit-plot==0.3.7
-scipy==1.9.3
+scipy==1.10.1
+#scipy==1.9.3
 seaborn==0.12.2
 segment-analytics-python==2.2.3
 Send2Trash==1.8.3
