@@ -101,7 +101,7 @@ kaleido==0.2.1
 kanaries_track==0.0.5
 kiwisolver==1.4.8
 linkify-it-py==2.0.3
-llvmlite==0.40.1
+#llvmlite==0.40.1
 lxml==5.4.0
 Markdown==3.8
 markdown-it-py==3.0.0
